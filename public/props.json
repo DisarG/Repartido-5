@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$242",
+        "categoria": "Carnicos",
+        "descripción": "lorem lorem lorem ",
+        "imagen": "https://th.bing.com/th/id/OIP.7D26CwoHX8IlsHJhjqUgAgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "id": "2",
+        "titulo": "Aceite semisintetico",
+        "precio": "$1500",
+        "categoria": "Servicios",
+        "imagen": "https://arasagro.com.ar/wp-content/uploads/2021/07/Aceite-Husqvarna-2T-LS-Semisintetico-de-1-L.jpg",
+        "descripción": "Desarrollado para las más altas exigencias, para uso intensivo en máquinas 2T de altas revoluciones.Baja emisión de humo. No desarrolla barnices en pistón cilindro y aros. No genera depósitos de carbón "
+    },
+    {
+        "id": "3",
+        "titulo": "Mouse",
+        "precio": "$320",
+        "categoria": "Informatica",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Cmr9ijR1oAipjOyI4OxVRsVx58bIZhnKFQ&usqp=CAU",
+        "descripción": "Sirve para gaming y mas "
+    },
+    {
+        "id": "4",
+        "titulo": "Maletin",
+        "precio": "$3200",
+        "categoria": "Informatica",
+        "imagen": "https://www.pictr3s.cat/FitxersWeb/146011/0195908300946_FOTO_3E2U7AA.jpg",
+        "descripción": "Maletines de informatica"
+    },
+    {
+        "id": "5",
+        "titulo": "Lapicera",
+        "precio": "$30",
+        "categoria": "Utiles",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPvwmwQV1vJ1VOyXG4-OyIy7ea7Xa8PVofw&usqp=CAU",
+        "descripción": "Sirve para escribir y dibujar tanto como para redactar "
+    }
+]
